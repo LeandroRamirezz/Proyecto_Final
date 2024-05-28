@@ -1,0 +1,7 @@
+proyecto.sistema.inventario.Inventario
+proyecto.sistema.inventario.Inventario.controller
+proyecto.sistema.inventario.Inventario.i18n
+proyecto.sistema.inventario.Inventario.Model
+proyecto.sistema.inventario.Inventario.Repository
+proyecto.sistema.inventario.Inventario.Security
+proyecto.sistema.inventario.Inventario.service
